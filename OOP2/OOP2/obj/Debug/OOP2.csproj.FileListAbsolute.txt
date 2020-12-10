@@ -1,0 +1,20 @@
+D:\ISMProject\OOP2\OOP2\bin\Debug\OOP2.exe.config
+D:\ISMProject\OOP2\OOP2\bin\Debug\OOP2.exe
+D:\ISMProject\OOP2\OOP2\bin\Debug\OOP2.pdb
+D:\ISMProject\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+D:\ISMProject\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+D:\ISMProject\OOP2\OOP2\obj\Debug\OOP2.exe
+D:\ISMProject\OOP2\OOP2\obj\Debug\OOP2.pdb
+D:\ISMProject\OOP2\OOP2\bin\Debug\ClassLib.dll
+D:\ISMProject\OOP2\OOP2\bin\Debug\ClassLib.pdb
+D:\ISMProject\OOP2\OOP2\obj\Debug\OOP2.csproj.CopyComplete
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\bin\Debug\OOP2.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\bin\Debug\OOP2.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\bin\Debug\ClassLib.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\bin\Debug\ClassLib.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\obj\Debug\OOP2.csproj.CopyComplete
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\obj\Debug\OOP2.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\OOP2\obj\Debug\OOP2.pdb

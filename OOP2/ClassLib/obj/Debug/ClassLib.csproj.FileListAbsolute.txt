@@ -1,0 +1,12 @@
+D:\ISMProject\OOP2\ClassLib\bin\Debug\ClassLib.dll
+D:\ISMProject\OOP2\ClassLib\bin\Debug\ClassLib.pdb
+D:\ISMProject\OOP2\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+D:\ISMProject\OOP2\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\ISMProject\OOP2\ClassLib\obj\Debug\ClassLib.dll
+D:\ISMProject\OOP2\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\Новая папка (2)\ClassLib\obj\Debug\ClassLib.pdb
